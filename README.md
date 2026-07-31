@@ -38,8 +38,13 @@ A "Registered" badge follows you back to the Events and Event Details pages afte
 - [`docs/project-plan.md`](docs/project-plan.md) — requirements, objectives, design outline, AI coding assistant summary.
 - [`docs/grading-criteria.md`](docs/grading-criteria.md) — how each of the 6 grading criteria is satisfied in the code.
 - [`docs/EventEase-Flowchart.md`](docs/EventEase-Flowchart.md) — preliminary design flowchart, drafted before implementation.
+
+## Out-of-Scope
+ 
 - [`learning-mode/`](learning-mode/) — a plain-language walkthrough of how the app works and why, one file per build stage.
-- [Glossary of Blazor/front-end terms](learning-mode/Glossary.md) — for readers new to front-end development.
+- [`ux-ui/evaluation-spec/`](ux-ui/evaluation-spec/) — an independent usability and accessibility audit.
+- - [`handoff/`](handoff/) — a record of each build run: what was planned and what actually got done.
+- [`Glossary of Blazor/front-end terms`](learning-mode/Glossary.md) — for readers new to front-end development.
 
 ## Course Attribution
 
