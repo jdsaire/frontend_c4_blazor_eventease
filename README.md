@@ -43,7 +43,7 @@ A "Registered" badge follows you back to the Events and Event Details pages afte
  
 - [`learning-mode/`](learning-mode/) — a plain-language walkthrough of how the app works and why, one file per build stage.
 - [`ux-ui/evaluation-spec/`](ux-ui/evaluation-spec/) — an independent usability and accessibility audit.
-- - [`handoff/`](handoff/) — a record of each build run: what was planned and what actually got done.
+- [`handoff/`](handoff/) — a record of each build run: what was planned and what actually got done.
 - [`Glossary of Blazor/front-end terms`](learning-mode/Glossary.md) — for readers new to front-end development.
 
 ## Course Attribution
